@@ -1,3 +1,4 @@
 # project1
-this our first project for software engineering
-yes 
+this is our first project for software engineering
+The introduction part will be strated next week
+
